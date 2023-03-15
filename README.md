@@ -1,4 +1,4 @@
 # Lab4-IA
 
 Repositorio de referencias: https://github.com/samuelchvez/python-ml-2021
-Usando https://mybinder.org/: https://hub.gke2.mybinder.org/user/marianadaso3-lab4-ia-vridl02x/lab/tree/main.ipynb
+Usando Mybinder: https://mybinder.org/v2/gh/Marianadaso3/Lab4-IA/bbb5f93c5f05b69a9eff09bdcfd67f58e737e261?urlpath=lab%2Ftree%2Fmain.ipynb
